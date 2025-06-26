@@ -11,6 +11,8 @@
 ## Project Setup
 
 ```sh
+git clone https://github.com/username/project-name.git
+git checkout feature/main-work
 npm install
 npm run dev
 ```
