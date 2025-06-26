@@ -1,5 +1,8 @@
 # test-items
 
+Демонстрация online:
+https://cyberqostya.github.io/test-items/
+
 ## Some facts
 
 - адаптирован для мобильныйх
