@@ -1,29 +1,21 @@
 # test-items
 
-This template should help get you started developing with Vue 3 in Vite.
+Демонстрация online:
+https://cyberqostya.github.io/test-items/
 
-## Recommended IDE Setup
+## Some facts
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+- адаптирован для мобильныйх
+- селект туда-обратно
+- универсальная функция перемещения item'ов
+- счетчик заполнения контейнера, исходя из максимумов
+- куки для сохранения прогресса при перезагрузке
 
 ## Project Setup
 
 ```sh
+git clone https://github.com/username/project-name.git
+git checkout feature/main-work
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
